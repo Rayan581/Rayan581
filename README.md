@@ -129,8 +129,19 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rayan581&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=24C6DC&text_color=e0e0e0&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan581&layout=compact&hide_border=true&bg_color=0f0c29&title_color=24C6DC&text_color=e0e0e0" alt="Top languages" />
+[![Repos](https://img.shields.io/badge/Public%20Repos-24%2B-302b63?style=for-the-badge&labelColor=0f0c29)](https://github.com/Rayan581?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Rayan581?label=Followers&style=for-the-badge&color=24C6DC&labelColor=0f0c29)](https://github.com/Rayan581?tab=followers)
+[![Since](https://img.shields.io/badge/Coding%20on%20GitHub%20since-2024-302b63?style=for-the-badge&labelColor=0f0c29)](https://github.com/Rayan581)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Rayan581&hide_border=true&background=0f0c29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC&sideLabels=e0e0e0&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=9e9e9e" alt="GitHub streak" />
 
@@ -144,6 +155,6 @@ I'm always up for talking game AI, RL, or interesting side projects. Reach out t
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=160&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=68" width="100%" alt="Thanks for stopping by" />
 
 </div>
