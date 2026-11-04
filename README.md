@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Rayan%20Ahmed&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Game%20Development%20%C2%B7%20Computer%20Vision&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Rayan Ahmed banner" />
-
-<a href="https://github.com/Rayan581">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=AI+student+@+FAST+NUCES;Reinforcement+learning+%26+procedural+generation;Building+agents+that+play%2C+learn+and+create;Game+AI+%7C+Generative+AI+%7C+Computer+Vision" alt="Typing animation" />
-</a>
+<img src="assets/header.svg" width="100%" alt="Rayan Ahmed — AI, game development, computer vision" />
 
 <br/>
 
@@ -162,6 +158,6 @@ I'm always up for talking game AI, RL, or interesting side projects. Reach out a
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=160&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=68" width="100%" alt="Thanks for stopping by" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by" />
 
 </div>
