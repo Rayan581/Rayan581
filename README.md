@@ -13,18 +13,18 @@
 
 ---
 
-## 👋 About Me
+## <img src="assets/icons/user.svg" width="26" height="26" align="top" alt="" /> About Me
 
 I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where machine learning meets interactive media. I like building systems that *learn*: game agents trained with reinforcement learning, worlds that generate themselves, and models that see.
 
-- 🎯 **Focus:** reinforcement learning, procedural content generation, game AI
-- 🔬 **Exploring:** generative AI, agentic systems, computer vision, deepfake detection
-- 🎮 **Always tinkering with:** game dev, simulations, and creative coding
-- 🐍 **Main languages:** Python and C++
+- <img src="assets/icons/target.svg" width="18" height="18" align="top" alt="" /> **Focus:** reinforcement learning, procedural content generation, game AI
+- <img src="assets/icons/microscope.svg" width="18" height="18" align="top" alt="" /> **Exploring:** generative AI, agentic systems, computer vision, deepfake detection
+- <img src="assets/icons/gamepad-2.svg" width="18" height="18" align="top" alt="" /> **Always tinkering with:** game dev, simulations, and creative coding
+- <img src="assets/icons/code-xml.svg" width="18" height="18" align="top" alt="" /> **Main languages:** Python and C++
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="assets/icons/wrench.svg" width="26" height="26" align="top" alt="" /> Tech Stack
 
 <div align="center">
 
@@ -41,46 +41,46 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
 
 ---
 
-## 🚀 Featured Projects
+## <img src="assets/icons/rocket.svg" width="26" height="26" align="top" alt="" /> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/Rayan581/evo-game-ai-copilot">EVO</a></h3>
+      <h3><img src="assets/icons/dna.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/evo-game-ai-copilot">EVO</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Agentic_AI-302b63?style=flat-square" alt="Agentic AI" /> <img src="https://img.shields.io/badge/SB3-24C6DC?style=flat-square" alt="SB3" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Rayan581/agdf">AGDF</a></h3>
+      <h3><img src="assets/icons/shield-check.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/agdf">AGDF</a></h3>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Computer_Vision-302b63?style=flat-square" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Research-24C6DC?style=flat-square" alt="Research" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏝️ <a href="https://github.com/Rayan581/island">Island</a></h3>
+      <h3><img src="assets/icons/app-window.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/island">Island</a></h3>
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/Rayan581/physics-engine">Physics Engine</a></h3>
+      <h3><img src="assets/icons/cog.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/physics-engine">Physics Engine</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pygame--ce-302b63?style=flat-square" alt="pygame-ce" /> <img src="https://img.shields.io/badge/Gymnasium-24C6DC?style=flat-square" alt="Gymnasium" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🦎 <a href="https://github.com/Rayan581/Creature-Evolution-Simulation">Creature Evolution</a></h3>
+      <h3><img src="assets/icons/bug.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/Creature-Evolution-Simulation">Creature Evolution</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pygame-302b63?style=flat-square" alt="Pygame" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
     </td>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/Rayan581/visual-doc-qa">DocChat</a></h3>
+      <h3><img src="assets/icons/file-search.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/visual-doc-qa">DocChat</a></h3>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/UDOP-302b63?style=flat-square" alt="UDOP" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/Rayan581/Urdu-Stories-Generation-Model">Urdu Stories</a></h3>
+      <h3><img src="assets/icons/book-open.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/Urdu-Stories-Generation-Model">Urdu Stories</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     </td>
     <td width="50%" valign="top">
-      <h3>♟️ <a href="https://github.com/Rayan581/Chess">Chess</a></h3>
+      <h3><img src="assets/icons/crown.svg" width="22" height="22" align="top" alt="" /> <a href="https://github.com/Rayan581/Chess">Chess</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pygame-302b63?style=flat-square" alt="Pygame" />
     </td>
   </tr>
@@ -90,22 +90,22 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
 <summary><b>More projects</b></summary>
 <br/>
 
-- 🛒 [**Daraz Shopping Assistant**](https://github.com/Rayan581/service_based_conversational_ai_nlp)
-- 🐤 [**Flappybird-AI**](https://github.com/Rayan581/Flappybird-AI)
-- 🐍 [**Snake-AI**](https://github.com/Rayan581/Snake-AI)
-- 🃏 [**Snake Card Battle**](https://github.com/Rayan581/MiniJam-Snakes)
-- ⚡ [**gpu-bpe**](https://github.com/Rayan581/gpu-bpe)
-- 🚨 [**incidentzero**](https://github.com/Rayan581/incidentzero)
-- 🔎 [**Auto-Bing-Searches**](https://github.com/Rayan581/Auto-Bing-Searches)
-- 🏓 [**Pong**](https://github.com/Rayan581/Pong)
-- 🐦 [**Blappy-Fird**](https://github.com/Rayan581/Blappy-Fird)
-- 🧮 [**Data-Structures-Lab**](https://github.com/Rayan581/Data-Structures-Lab)
+- <img src="assets/icons/shopping-cart.svg" width="18" height="18" align="top" alt="" /> [**Daraz Shopping Assistant**](https://github.com/Rayan581/service_based_conversational_ai_nlp)
+- <img src="assets/icons/bird.svg" width="18" height="18" align="top" alt="" /> [**Flappybird-AI**](https://github.com/Rayan581/Flappybird-AI)
+- <img src="assets/icons/route.svg" width="18" height="18" align="top" alt="" /> [**Snake-AI**](https://github.com/Rayan581/Snake-AI)
+- <img src="assets/icons/spade.svg" width="18" height="18" align="top" alt="" /> [**Snake Card Battle**](https://github.com/Rayan581/MiniJam-Snakes)
+- <img src="assets/icons/cpu.svg" width="18" height="18" align="top" alt="" /> [**gpu-bpe**](https://github.com/Rayan581/gpu-bpe)
+- <img src="assets/icons/siren.svg" width="18" height="18" align="top" alt="" /> [**incidentzero**](https://github.com/Rayan581/incidentzero)
+- <img src="assets/icons/search.svg" width="18" height="18" align="top" alt="" /> [**Auto-Bing-Searches**](https://github.com/Rayan581/Auto-Bing-Searches)
+- <img src="assets/icons/circle-dot.svg" width="18" height="18" align="top" alt="" /> [**Pong**](https://github.com/Rayan581/Pong)
+- <img src="assets/icons/feather.svg" width="18" height="18" align="top" alt="" /> [**Blappy-Fird**](https://github.com/Rayan581/Blappy-Fird)
+- <img src="assets/icons/binary.svg" width="18" height="18" align="top" alt="" /> [**Data-Structures-Lab**](https://github.com/Rayan581/Data-Structures-Lab)
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="assets/icons/chart-column.svg" width="26" height="26" align="top" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -129,7 +129,7 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
 
 ---
 
-## 📫 Let's Connect
+## <img src="assets/icons/send.svg" width="26" height="26" align="top" alt="" /> Let's Connect
 
 I'm always up for talking game AI, RL, or interesting side projects. Reach out anywhere below.
 
