@@ -47,59 +47,49 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
   <tr>
     <td width="50%" valign="top">
       <h3>🧬 <a href="https://github.com/Rayan581/evo-game-ai-copilot">EVO</a></h3>
-      <p>Agentic AI co-pilot for reinforcement learning experiments, with persistent memory and automated analysis.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Agentic_AI-302b63?style=flat-square" alt="Agentic AI" />
-      <img src="https://img.shields.io/badge/RL-24C6DC?style=flat-square" alt="RL" />
+      <p>Agentic co-pilot for RL experiments in small game environments. It analyzes training runs, recalls project history, and proposes the next step behind an approval gate, with persistent SQLite memory.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Agentic_AI-302b63?style=flat-square" alt="Agentic AI" /> <img src="https://img.shields.io/badge/SB3-24C6DC?style=flat-square" alt="SB3" />
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Rayan581/agdf">AGDF</a></h3>
-      <p>Deepfake detection that swaps static branch averaging in GenConViT for an Adaptive Gated Decision Fusion module.</p>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-      <img src="https://img.shields.io/badge/Computer_Vision-302b63?style=flat-square" alt="Computer Vision" />
-      <img src="https://img.shields.io/badge/Research-24C6DC?style=flat-square" alt="Research" />
+      <p>Deepfake detector that replaces GenConViT's fixed 50/50 branch averaging with a learned, entropy-aware per-frame gate (+1.03% out-of-distribution accuracy on FaceForensics++).</p>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/Computer_Vision-302b63?style=flat-square" alt="Computer Vision" /> <img src="https://img.shields.io/badge/Research-24C6DC?style=flat-square" alt="Research" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏝️ <a href="https://github.com/Rayan581/island">Island</a></h3>
-      <p>A Windows Dynamic Island desktop app built with Electron, showing Spotify music and lyrics plus Claude Code status.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+      <p>Dynamic Island-style overlay for Windows. Shows live Claude Code progress, Spotify with synced lyrics, volume, and a focus timer.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" /> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/Rayan581/physics-engine">Physics Engine</a></h3>
+      <p>2D physics sandbox and RL environment. Build motor-jointed mechanisms, save scenes as JSON, and train agents through a Gymnasium API (PPO pendulum example included).</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/pygame--ce-302b63?style=flat-square" alt="pygame-ce" /> <img src="https://img.shields.io/badge/Gymnasium-24C6DC?style=flat-square" alt="Gymnasium" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦎 <a href="https://github.com/Rayan581/Creature-Evolution-Simulation">Creature Evolution</a></h3>
+      <p>Artificial-life ecosystem where neural-network creatures evolve along a herbivore-to-carnivore spectrum, with predation, seasons, shouting, and mating.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pygame-302b63?style=flat-square" alt="Pygame" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/Rayan581/visual-doc-qa">DocChat</a></h3>
+      <p>Visual document Q&amp;A. Upload scans, invoices, or forms and ask questions, powered by Microsoft's layout-aware UDOP model.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/UDOP-302b63?style=flat-square" alt="UDOP" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📖 <a href="https://github.com/Rayan581/Urdu-Stories-Generation-Model">Urdu Stories</a></h3>
+      <p>Generates Urdu stories from a starting phrase using a custom BPE tokenizer and trigram language model, with streamed output.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
     </td>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/Rayan581/Chess">Chess</a></h3>
-      <p>Python and Pygame chess game with full rules, timers, sound, auto-flip, and PGN export.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Pygame-302b63?style=flat-square" alt="Pygame" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐤 <a href="https://github.com/Rayan581/Flappybird-AI">Flappybird-AI</a></h3>
-      <p>Neural networks and genetic algorithms learn to dodge pipes on their own.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Neuroevolution-24C6DC?style=flat-square" alt="Neuroevolution" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/Rayan581/Snake-AI">Snake-AI</a></h3>
-      <p>Play Snake yourself, or sit back and let the AI take over.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Game_AI-302b63?style=flat-square" alt="Game AI" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦎 <a href="https://github.com/Rayan581/Creature-Evolution-Simulation">Creature Evolution Simulation</a></h3>
-      <p>An evolutionary simulation where creatures adapt over generations.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Simulation-24C6DC?style=flat-square" alt="Simulation" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/Rayan581/Urdu-Stories-Generation-Model">Urdu Stories Generation</a></h3>
-      <p>Text generation model for Urdu stories, built with NLP concepts.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/NLP-302b63?style=flat-square" alt="NLP" />
+      <p>Pygame chess with full rules, timers, sound, an auto-flip board, and PGN export.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pygame-302b63?style=flat-square" alt="Pygame" />
     </td>
   </tr>
 </table>
@@ -108,14 +98,16 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
 <summary><b>More projects</b></summary>
 <br/>
 
-- ⚡ [**gpu-bpe**](https://github.com/Rayan581/gpu-bpe): GPU-accelerated byte-pair encoding experiments
-- ⚙️ [**physics-engine**](https://github.com/Rayan581/physics-engine): a physics engine in Python
-- 📄 [**visual-doc-qa**](https://github.com/Rayan581/visual-doc-qa): visual document question answering
-- 🚨 [**incidentzero**](https://github.com/Rayan581/incidentzero)
-- 💬 [**service_based_conversational_ai_nlp**](https://github.com/Rayan581/service_based_conversational_ai_nlp): conversational AI with NLP
-- 🎮 [**MiniJam-Snakes**](https://github.com/Rayan581/MiniJam-Snakes): game jam entry on the theme of Snakes
-- 🕹️ Classic C++ games: [Pong](https://github.com/Rayan581/Pong) · [Blappy-Fird](https://github.com/Rayan581/Blappy-Fird)
-- 🧮 [**Data-Structures-Lab**](https://github.com/Rayan581/Data-Structures-Lab): data structures in C++
+- 🛒 [**Daraz Shopping Assistant**](https://github.com/Rayan581/service_based_conversational_ai_nlp): local, CPU-friendly shopping assistant for Daraz.pk running a quantized Qwen2.5-3B (FastAPI, React, SQLite sessions)
+- 🐤 [**Flappybird-AI**](https://github.com/Rayan581/Flappybird-AI): neural networks and a genetic algorithm teach birds to dodge pipes
+- 🐍 [**Snake-AI**](https://github.com/Rayan581/Snake-AI): play Snake yourself or watch an A* pathfinding agent play
+- 🃏 [**Snake Card Battle**](https://github.com/Rayan581/MiniJam-Snakes): turn-based two-snake card game made for MiniJam (theme: Snakes)
+- ⚡ [**gpu-bpe**](https://github.com/Rayan581/gpu-bpe): GPU-accelerated parallel byte-pair encoding, with a training notebook and write-up
+- 🚨 [**incidentzero**](https://github.com/Rayan581/incidentzero): bounded incident-response agent in plain Python with the Groq SDK, built for an agentic AI assignment
+- 🔎 [**Auto-Bing-Searches**](https://github.com/Rayan581/Auto-Bing-Searches): Python script that automates Bing searches in Edge to earn Rewards points
+- 🏓 [**Pong**](https://github.com/Rayan581/Pong): classic Pong in C++
+- 🐦 [**Blappy-Fird**](https://github.com/Rayan581/Blappy-Fird): Flappy Bird-style game in C++ with raylib
+- 🧮 [**Data-Structures-Lab**](https://github.com/Rayan581/Data-Structures-Lab): C++ data structures lab work: 13 labs plus Sessional-I
 
 </details>
 
