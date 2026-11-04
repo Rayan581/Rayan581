@@ -151,9 +151,16 @@ I'm a **BS Artificial Intelligence** student at **FAST NUCES**, working where ma
 
 ## 📫 Let's Connect
 
-I'm always up for talking game AI, RL, or interesting side projects. Reach out through any of the links above.
+I'm always up for talking game AI, RL, or interesting side projects. Reach out anywhere below.
 
 <div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ra3328600@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24C6DC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-one-red-tg0eekr4j0.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-ahmed-b59794223/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayan581)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=160&section=footer&text=Thanks%20for%20stopping%20by&fontSize=24&fontColor=ffffff&fontAlignY=68" width="100%" alt="Thanks for stopping by" />
 
